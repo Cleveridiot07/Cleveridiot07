@@ -9,7 +9,7 @@ Languages
 <div align="left">
   <img src="./Images/icons8-javascript-240.png" height="40" alt="Javascript" />
   <img width="12" />
-  <img src="./Images/icons8-java-500.png" height="40" alt="Java" />
+  <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img width="12" />
   <img src="./Images/icons8-c-512.png" height="40" alt="C++" />
   <img width="12" />
@@ -29,7 +29,7 @@ Backend
 <div align="left">
   <img src="./Images/icons8-node-js-240.png" height="40" alt="NodeJS" />
   <img width="12" />
-  <img src="./Images/icons8-express-js-500.png" height="40" alt="ExpressJS" />
+  <img width="40" height="40" src="https://img.icons8.com/color/48/000000/express-js.png" alt="express-js"/>
 </div>
 
 ###
