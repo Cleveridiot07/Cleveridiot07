@@ -1,7 +1,5 @@
 # Cleveridiot07/README.md
 
-![Banner](https://res.cloudinary.com/dzp4qtnbu/image/upload/v1730643404/GithubBanner-ezgif.com-video-to-gif-converter_1_dn2gft.gif)
-
 
 ---
 
